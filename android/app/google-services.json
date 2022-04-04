@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877127017387",
+    "project_id": "tochid-7755b",
+    "storage_bucket": "tochid-7755b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877127017387:android:d29c7c9ed756859da7a8ee",
+        "android_client_info": {
+          "package_name": "com.tochid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877127017387-aif5q13vbb59q39pu8u2n58st5e3mj2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tochid",
+            "certificate_hash": "5ff6b7f2c31f0e8d8623589ef573d8fa1919048c"
+          }
+        },
+        {
+          "client_id": "877127017387-eco8innh4cuu43c0dehdnjfpnv22v277.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvV516Yx0TMzDQSOIMjZuKRi-OWuuNn0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877127017387-eco8innh4cuu43c0dehdnjfpnv22v277.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
