@@ -26,7 +26,7 @@ class Strings {
   static final password = LocaleKeys.password.tr();
   static final confirmPassword = LocaleKeys.confirm_the_password.tr();
   static final byClickingAgree = LocaleKeys.by_continuing_you_agree_to
-      .tr(namedArgs: {'@site_name@': 'Colibri'});
+      .tr(namedArgs: {'@site_name@': 'Tochid'});
   static final termsOfUse = LocaleKeys.terms_of_use.tr();
   static final privacy = LocaleKeys.privacy_policy.tr();
   static final haveAlreadyAccount = LocaleKeys.already_have_an_account.tr();
@@ -35,7 +35,7 @@ class Strings {
   static final affiliatesStr = LocaleKeys.affiliates.tr();
   static final ads = LocaleKeys.active_ads.tr();
   static final forgotPassword = LocaleKeys.forgot_your_password.tr();
-  static final termsUrl = "https://www.tochid.com/terms_of_use";
+  static final termsUrl = "https://tochid.com/terms_of_use";
   static final privacyUrl = "https://tochid.com/privacy_policy";
   static final aboutUs = "https://tochid.com/about_us";
   static final cookiesPolicy = "https://tochid.com/cookies_policy";
