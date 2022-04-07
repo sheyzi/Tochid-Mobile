@@ -132,7 +132,7 @@ abstract class LocaleKeys {
   static const submit_request = 'submit_request';
   static const your_account_has_been_verified_now_a_blue_checkmark_will_always_b =
       'your_account_has_been_verified_now_a_blue_checkmark_will_always_b';
-  static const okey = 'okey';
+  static const okey = 'okay';
   static const your_request_for_verification_of_your_account_has_been_successful =
       'your_request_for_verification_of_your_account_has_been_successful';
   static const change_country = 'change_country';

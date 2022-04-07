@@ -3,7 +3,8 @@ import 'package:easy_localization/easy_localization.dart';
 
 class Strings {
   static final welcome = LocaleKeys.welcome.tr();
-  static final seeWhats = "See What's happening in the \n world now!";
+  static final seeWhats =
+      "Social networking platform\n to connect with people, post,\nread\n trending topics and have fun.";
   static final login = LocaleKeys.login.tr();
   static final signUp = LocaleKeys.sign_up.tr();
   static final signUpCaps = LocaleKeys.sign_up.tr().toUpperCase();
